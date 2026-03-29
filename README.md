@@ -7,7 +7,7 @@ C語言基礎程式設計與實務
   
 <p align="center">
   <b>系統架構圖</b><br><br>
-  <img src="https://github.com/user-attachments/assets/a50eb1f2-4c26-4249-a39d-854ea52f1010" width="700">
+  <img src="https://github.com/user-attachments/assets/a50eb1f2-4c26-4249-a39d-854ea52f1010" width="650">
 </p>
 
   - 我的負責部分
