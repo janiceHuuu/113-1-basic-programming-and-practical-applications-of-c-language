@@ -5,10 +5,10 @@ C語言基礎程式設計與實務
 
 - [期末專題](https://github.com/janiceHuuu/113-1-basic-programming-and-practical-applications-of-c-language/tree/main/%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C)：四人一組合作完成，本組主題為「自動販賣機模擬器」
   
-<div align="center">
-  <b>系統架構圖</b><br><br>
-  <img src="https://github.com/user-attachments/assets/a50eb1f2-4c26-4249-a39d-854ea52f1010" width="650">
-</div>
+  <div align="center">
+    <b>系統架構圖</b><br><br>
+    <img src="https://github.com/user-attachments/assets/a50eb1f2-4c26-4249-a39d-854ea52f1010" width="650">
+  </div>
 
   - 我的負責部分
     - 販賣機管理者的功能開發
